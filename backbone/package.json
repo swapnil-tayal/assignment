@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "coffeescript": "^2.7.0"
+  }
+}
